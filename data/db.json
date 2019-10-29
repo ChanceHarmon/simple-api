@@ -1,4 +1,33 @@
 {
-  "categories": [],
-  "products": []
+  "categories": [
+    {
+      "_id": "1",
+      "name": "books",
+      "display_name": "Chance's Books",
+      "description": "Worth Reading"
+    }
+  ],
+  "products": [
+    {
+      "_id": "2",
+      "category": "books",
+      "name": "It",
+      "display_name": "It",
+      "description": "Scary Clown"
+    },
+    {
+      "_id": "3",
+      "category": "books",
+      "name": "The Shining",
+      "display_name": "The Shining",
+      "description": "Here's Johnny"
+    },
+    {
+      "_id": "4",
+      "category": "books",
+      "name": "Cujo",
+      "display_name": "Cujo",
+      "description": "Mans Best Friend"
+    }
+  ]
 }
